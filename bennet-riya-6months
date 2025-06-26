@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>6 Months Together - Bennet & Riya</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #fff7f0;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ff9aa2;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 15px;
+            padding: 20px;
+        }
+        .gallery img {
+            width: 300px;
+            height: auto;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+        .message {
+            max-width: 800px;
+            margin: 40px auto;
+            background-color: #fff0f5;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            font-size: 1.2em;
+        }
+        footer {
+            background-color: #ff9aa2;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>🌸 6 Beautiful Months Together 🌸</h1>
+    <h2>Bennet ❤️ Riya</h2>
+</header>
+
+<section class="gallery">
+    <img src="IMG_20250331_115527.jpg" alt="Our Memory 1">
+    <img src="IMG_20250331_115939.jpg" alt="Our Memory 2">
+    <img src="IMG_20250508_124701.jpg" alt="Our Memory 3">
+    <img src="IMG_20250508_140329.jpg" alt="Our Memory 4">
+    <img src="ChatGPT Image Mar 31, 2025, 06_34_11 PM.png" alt="Our Ghibli Moment">
+</section>
+
+<section class="message">
+    <p>Dear Riya,</p>
+    <p>Thank you for being with me. You made my life so much better. Every moment with you is precious and beautiful. I feel lucky to have you by my side.</p>
+    <p>Happy 6 months to us! Let’s make many more memories together. 💕</p>
+    <p>With all my love,<br>Bennet</p>
+</section>
+
+<footer>
+    Made with ❤️ by Bennet for Riya
+</footer>
+
+</body>
+</html>
